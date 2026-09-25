@@ -90,9 +90,6 @@ export function App() {
             </div>
             <div>
               <h1 className="brand-title">FlowAccount Product Manager</h1>
-              <p className="brand-subtitle">
-                Fresh Graduate Coding Challenge - ระบบจัดการสินค้าสำหรับร้านค้า SME
-              </p>
             </div>
           </div>
 
